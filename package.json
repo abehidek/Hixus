@@ -1,0 +1,15 @@
+{
+  "name": "hixus",
+  "version": "1.0.0",
+  "description": "A discord bot with some interesting features",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Abe Hidek",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
