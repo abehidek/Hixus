@@ -18,4 +18,4 @@ since i'm both learning javascript, node.js and discord.js i plan to add some in
 
 ## License
 
-licensed by MIT ©
+Project under the MIT license.
