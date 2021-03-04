@@ -9,6 +9,11 @@ today the only working features are:
 
 since i'm both learning javascript, node.js and discord.js i plan to add some interesting features.
 
+## Tecnologies
+
+* Discord.js
+* Node.js
+
 ## How do i install it?
 
 1. Clone this repository in your machine
